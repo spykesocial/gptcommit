@@ -1,0 +1,9 @@
+{
+  "name": "gptcommit",
+  "packageManager": "yarn@4.1.1",
+  "devDependencies": {
+    "@commitlint/cli": "^19.1.0",
+    "@commitlint/config-conventional": "^19.1.0",
+    "husky": "^9.0.11"
+  }
+}
